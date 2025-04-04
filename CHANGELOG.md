@@ -72,9 +72,11 @@ Anniversary update of the module.
 
 
 
-Archived part:
 
 #
+
+Archived part:
+
 Update 10.0
 
 -adjustment for 1120
@@ -237,10 +239,6 @@ The module has been rewritten from scratch
 
 Removed the feature of increased brightness until realme adds configs for the display to enable this feature
 
-Clean tails from previous versions using TailsCleaner.sh (there is a script inside the archive, just run it in the mt manager application and then reboot)
-Perform actions after installation (updated description)
-Set the hertz for applications
-
 Update 7.0
 
 -significant improvement in smoothness and reactivity
@@ -297,7 +295,7 @@ The module has been completely redesigned, a kind of refresh, some changes from 
 -remote preload enabled
 -cos telemetry disabled
 
-Kernel tweaks (thanks to mitriemin for lock_var)
+Kernel tweaks 
 
 -entropy settings
 -disabling kfence to improve RAM performance
@@ -333,7 +331,7 @@ Update 5.1
 
 New features
 
-- dynamic island enabled (settings-laboratory. For some reason, normal display only at high resolution. Thanks to neferon for the tip on dynamic island)
+- dynamic island enabled (settings-laboratory. For some reason, normal display only at high resolution. 
 
 If you updated from v5, after installation, clear the cache of the system graphical interface, system launcher, settings, wireless network settings.
 Then a couple of reboots (not immediately after the lockscreen appears, run for 5 minutes and reboot)
@@ -376,8 +374,6 @@ The module has been redesigned and adjusted to the last version of the firmware.
 
 Look at the actions after installation.
 
-Thanks mitriemin for constant communication and discussions)
-
 Update 4.5
 
 - fixed ProXDR and Sharpness
@@ -416,8 +412,6 @@ New features
 
 Rejection of cgroups, kernel tweaks, hardware acceleration.
 
-Many thanks to mitriemin for his contribution (internal logging and tracing)
-
 After installation, do everything as for 3.0 except cleaning the camera.
 
 I recommend updating to stable a14
@@ -427,7 +421,7 @@ Update 3.0
 -Significant improvement in overall performance, speed, smoothness and power saving
 -kernel tweaks
 -gpu tweaks
--cgroups and core distribution (thanks to mitriemin for his help)
+-cgroups and core distribution
 -surfaceflinger improvements
 -reduced overall latency and jitter
 -display improvements
@@ -480,7 +474,7 @@ Update 2.0
 
 - added new props to improve the smoothness and reactivity of ui, scrolling.
 - display tweaks
-- enabled section 84 thermal (thanks to mitriemin for the tip)
+- enabled section 84 thermal
 - enabled the use of 8 threads for dex
 - additional disabling of logs and statistics
 Features:
@@ -495,7 +489,6 @@ Features:
 - accelerated application launch
 - enabled holographic effect for weather.
 Read the post-installation steps regarding the updated module.
-Thanks to mitriemin for the info on magisk scripts (service.sh)
 
 Update 1.1
 
