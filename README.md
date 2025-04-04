@@ -55,6 +55,8 @@ Warnings and notes:
 
 - after the first installation, the selective hertz for some applications will be disabled once
 
-KalamaExtraPack. Undervolt config for only for GT5
+Additional stuf:
 
+KalamaExtraPack. Undervolt config for only for GT5
+TweaksAddon. This "module" providing 144hz to launcher. it will disappear after reboot. Magisk users need reboot 2 times to take affect.
  
