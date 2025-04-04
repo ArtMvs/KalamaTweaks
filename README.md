@@ -43,8 +43,6 @@ Warnings and notes:
 
 - The module is made for the latest builds of rui 6.0 android 15. (And is immediately sawed under the new build, but you can also use the updated module on the old firmware)
 
-- the 120hz version gives stock 120Hz in the launcher, the version without this postscript gives 144Hz in the launcher
-
 - do not install magisk kitsune/kitsune mask, this is very bad, only official magisk canary is supported, ksu should be supported
 
 - do not do in luckytool what the module gives you
@@ -53,7 +51,7 @@ Warnings and notes:
 
 - do not use the dynamic island module, there will be a conflict, it is in cos 15 in the form of live notifications
 
-- after the first installation, the selective hertz for some applications will be disabled once
+- after the first installation, the selective refreshrate for some applications will be disabled once
 
 Additional stuf:
 
