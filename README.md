@@ -20,7 +20,7 @@ What the module provides:
 - enabled memc 120Hz for mx player and vlc
 
 kernel tweaks:
-- nabled tcp low latency and disabled tcp timestamps
+- enabled tcp low latency and disabled tcp timestamps
 
 camera:
 - enabled cameraX extensions
