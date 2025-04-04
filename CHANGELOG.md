@@ -21,8 +21,8 @@ Update 12.0
 
 Transition to a script basis
 
--reduced heating
--improved hertz operation
+- reduced heating
+- improved refreshrate part
 
 Changed the concept of getting 144Hz in the interface, coloros reacts negatively to the full transition to 144Hz (due to the fact that oppo simply does not have devices with 144Hz and the system is not optimized for this, gnilmi gives us this as a feature, and quite clumsily), some elements should work as in stock, at 120Hz, for the sake of stability and adequate operation.
 
@@ -38,7 +38,7 @@ Delete the old version and reboot before installing the new one, the module is u
 
 Update 11.0
 
--module rewritten for cos15
+- module rewritten for cos15
 
 What is in the module at the moment:
 
