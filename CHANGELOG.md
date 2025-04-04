@@ -19,8 +19,7 @@ Reminder: you can't update over, delete the old version and install a new one.
 
 Update 12.0
 
- Transition to a script basis
-
+- switch to a script basis
 - reduced heating
 - improved refreshrate part
 
