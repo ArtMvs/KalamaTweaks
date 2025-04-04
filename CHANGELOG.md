@@ -8,8 +8,8 @@ Update 14.0
 
 Update 13.0
 
-Improved overall smoothness and responsiveness
-- increased hertz stability
+- Improved overall smoothness and responsiveness
+- increased refreshrate stability
 - improved smoothness of camera viewfinder
 - improved memc
 - vulbchen paralel dexopt
@@ -19,7 +19,7 @@ Reminder: you can't update over, delete the old version and install a new one.
 
 Update 12.0
 
-Transition to a script basis
+ Transition to a script basis
 
 - reduced heating
 - improved refreshrate part
@@ -44,8 +44,8 @@ What is in the module at the moment:
 
 - 144Hz at high refresh rate and in all applications
 - touch 320Hz in the system, 420Hz in games, 500 in games in gt mode (at 144Hz)
-- high refresh rate when using the camera in TikTok, Instagram, Whatsapp, vk/sova, telegram/telegraph/nekogram
-- improved overall refresh rate behavior
+- high refreshrate when using the camera in TikTok, Instagram, Whatsapp, vk/sova, telegram/telegraph/nekogram
+- improved overall refreshrate behavior
 - wifi improvements
 - increased aod smoothness
 - gps improvements
