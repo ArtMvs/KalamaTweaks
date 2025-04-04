@@ -40,7 +40,7 @@ How to update the module:
 
 - Delete the old version and reboot before installing the new one, you cannot update over. When installing, the module is assembled with your current files. After installing the ota system update, you must also reinstall the module (so that the module is assembled with your new files)
 
-  Warnings and notes:
+Warnings and notes:
 
 - The module is made for the latest builds of rui 6.0 android 15. (And is immediately sawed under the new build, but you can also use the updated module on the old firmware)
 
@@ -56,6 +56,6 @@ How to update the module:
 
 - after the first installation, the selective hertz for some applications will be disabled once
 
-  KalamaExtraPack. Undervolt config for only for GT5.
+KalamaExtraPack. Undervolt config for only for GT5.
 
  
