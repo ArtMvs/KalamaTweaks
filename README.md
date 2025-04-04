@@ -11,7 +11,7 @@ What the module provides:
 - wifi improvements, removed restrictions, unlocked channel width of 160MHz and 320MHz
 - increased aod smoothness
 - enabled optimizations of system services in the background
-- improved dolby
+- improved dolby audio
 - enabled display of kernel git date and cpu information
 - enabled sharpness
 - enabled ai eye protection
