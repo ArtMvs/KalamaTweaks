@@ -27,7 +27,7 @@ Changed the concept of getting 144Hz in the interface, coloros reacts negatively
 
 The lock screen and unlock animation is a separate story, oppo stupidly locked it at 120Hz and at the same time, each time the screen is turned on, for some reason, constantly setting this frequency, and because of this you see a lag and ragged animation. If you unlock from a black screen with a fingerprint, the animation will be smooth precisely because what I described earlier does not happen.
 
-Now devices with 144Hz screens will have 2 versions to choose from, with stock implementation (120Hz) or with partial 144Hz
+Now devices with 144Hz screens will have separate TweaksAddon "module" for get 144hz in launcher.
 
 The latest update .401 turned out great, a huge difference in UX after .320, a little more and it can be called a great experience. Updated gpu drivers, many libs and frameworks, fixed the operation of the hertz at 45% brightness.
 
