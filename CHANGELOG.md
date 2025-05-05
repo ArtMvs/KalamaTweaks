@@ -39,7 +39,7 @@ The lock screen and unlock animation is a separate story, oppo stupidly locked i
 
 Now devices with 144Hz screens will have separate TweaksAddon "module" for get 144hz in launcher.
 
-The latest update .401 turned out great, a huge difference in UX after .320, a little more and it can be called a great experience. Updated gpu drivers, many libs and frameworks, fixed the operation of the hertz at 45% brightness.
+The latest update .401 turned out great, a huge difference in UX after .320, a little more and it can be called a great experience. Updated gpu drivers, many libs and frameworks, fixed the operation of the refreshrate at 45% brightness.
 
 The module has switched to a script view, now you do not need to wait for the module to update for the new version of the system
 
