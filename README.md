@@ -37,25 +37,23 @@ After the first installation (and update if I specify):
 
 How to update the module:
 
-- Delete the old version and reboot before installing the new one, you cannot update over. When installing, the module is assembled with your current files. After installing the ota system update, you must also reinstall the module (so that the module is assembled with your new files)
+- Delete the old version and reboot before installing the new one, when trying to update over the top, the module will be automatically deleted and rebooted. When installing, the module is assembled with your current files. After installing the ota system update, you must also reinstall the module (so that the module is assembled with your new files)
 
 Warnings and notes:
 
 - The module is made for the latest builds of rui 6.0 android 15. (And is immediately sawed under the new build, but you can also use the updated module on the old firmware)
 
-- do not install magisk kitsune/kitsune mask, this is very bad, only official magisk canary is supported, ksu should be supported
+- choosing 144Hz/vol+ gives 144Hz in the launcher, vol- leaves the stock state. As I said earlier, at 144Hz there will be a torn animation of unlocking, provided that you unlock from the lock screen, from a black screen with a fingerprint, the animation is processed normally. This behavior at 144Hz is due to the fact that in coloros on the lock screen the frequency of 120Hz is constantly hammered in (the overlay is always highlighted), it is, to put it mildly, forced, because of this, the animation is torn, and on the butt version this prolag is imperceptible.
 
-- do not do in luckytool what the module gives you
+- do not install magisk kitsune/kitsune mask, it is very bad, only official magisk canary and KSU are supported.
+
+- do not do in luckytool what the module gives you.
 
 - do not install modules that are similar in action (extremegt and others, but you can delete the files inside the archive that are also in my module and install)
 
-- do not use the dynamic island module, there will be a conflict, it is in cos 15 in the form of live notifications
-
-- after the first installation, the selective refreshrate for some applications will be disabled once
+- after the first installation, the selective hz for some applications will reset once
 
 Additional stuf:
 
 KalamaExtraPack. Undervolt config for only for GT5
-
-TweaksAddon. This "module" providing 144hz to launcher. it will disappear after reboot. Magisk users need reboot 2 times to take affect.
  
