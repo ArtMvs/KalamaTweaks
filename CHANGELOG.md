@@ -12,7 +12,6 @@ Update 15.0
 Update 14.0
 
 - disabled unnecessary coresight debug
-- enabled adfr low power
 - disabled high volume warning in headphones
 - unlocked 160MHz channel width for wifi (thanks Skavellion xda)
 - minor edits
@@ -23,7 +22,7 @@ Update 13.0
 - increased refreshrate stability
 - improved smoothness of camera viewfinder
 - improved memc
-- vulbchen paralel dexopt
+- enabled paralel dexopt
 - enabled clear voice (settings-sound)
 
 Reminder: you can't update over, delete the old version and install a new one.
@@ -58,7 +57,6 @@ What is in the module at the moment:
 - improved overall refreshrate behavior
 - wifi improvements
 - increased aod smoothness
-- gps improvements
 - optimizations of system services in the background are enabled
 - display of kernel git date and cpu information is enabled
 - sharpness is enabled
@@ -66,9 +64,6 @@ What is in the module at the moment:
 - paper texture effect in eye protection is enabled
 - tenderness vibration effect is enabled
 - memc 120Hz is enabled for mx player and vlc
-
-kernel tweaks:
-- tcp low latency enabled and tcp timestamps disabled
 
 camera:
 - cameraX extensions enabled
