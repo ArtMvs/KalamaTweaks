@@ -19,9 +19,6 @@ What the module provides:
 - enabled vibration effect tenderness
 - enabled memc 120Hz for mx player and vlc
 
-kernel tweaks:
-- enabled tcp low latency and disabled tcp timestamps
-
 camera:
 - enabled cameraX extensions
 - enabled audio modes for video
