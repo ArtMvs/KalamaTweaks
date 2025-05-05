@@ -1,3 +1,14 @@
+Update 15.0
+
+- high-quality full refactoring of the script part (many thanks LolD for the help
+- added "protection" for those who do not read the "installation and update" item
+- added launcher refresh rate selection during installation (Vol+ 144Hz, Vol-stock)
+- significant improvements in refresh rate stability, scrolling, transitions, animation processing, reduction of phantom lags
+- increase in sot during "normal" use on a dark theme by an average of +1h~ (without games and other crashes)
+- improvement of the "clear voice" function
+- heating reduction
+- vrr improvement
+
 Update 14.0
 
 - disabled unnecessary coresight debug
